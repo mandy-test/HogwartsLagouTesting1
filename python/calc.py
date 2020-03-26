@@ -7,5 +7,5 @@ class Calc:
     def div(self, a, b):
         return a / b
 
-    def add2(self, two: tuple):
-        return two[0] + two[2]
+    # def add2(self, two: tuple):
+    #     return two[0] + two[2]
