@@ -4,7 +4,6 @@ from python.calc import Calc
 
 
 class TestCalc:
-
     """
         1.两个整数
         2.两个负数
