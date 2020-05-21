@@ -8,8 +8,8 @@ import requests
 
 
 class TestWeworkApi:
-    secrete = 'idWKk_dfyLxWept8o0K8nGc15LHZKzmTYsuQSMd9ixc'
-    id = 'ww5c30c081f30784ff'
+    secrete = 'idWKk_dfyLxWept8o0K8nGc15LHZKzmTYsuQSMd9ixcma'
+    id = 'maww5c30c081f30784ff'
 
     def setup(self):
         res = requests.get(
